@@ -25,7 +25,6 @@ If you'd like a recap on some of my achievements there, [check out my CV](https:
     <li>I built an at-home with video conferencing ability.</li>
   </ul>
 </details>
-<br><br>
 <details>
   <summary><b>🏗 Coming Soon</b></summary>
   <ul>
