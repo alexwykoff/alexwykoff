@@ -3,7 +3,7 @@ Product Manager for hire.  I have a depth of experience in cryptocurrency, engin
 
 
 
-:wave: Hi! I am a Product Manager who is looking for their next role.
+:wave: Hi! I am Alex Wykoff, a Product Manager who is looking for their next role.
 
 My prior work at :lion:Brave focused on <b>Rewards</b>, the in-browser cryptocurrency system.
 
