@@ -22,7 +22,7 @@ If you'd like a recap on some of my achievements there, [check out my CV](https:
     <li>I painted and rebuilt a bmx bike for my kid.</li>
     <li>I created [Distributed Camp](https://distributed.camp) a virtual conference on distributed technologies during a global pandemic.</li>
     <li>I made a waxed canvas laptop bag.</li>
-    <li>I built an at-home with video conferencing ability.</li>
+    <li>I built an at-home arcade with video conferencing ability.</li>
   </ul>
 </details>
 <details>
