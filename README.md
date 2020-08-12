@@ -9,7 +9,7 @@ My prior work at :lion:Brave focused on <b>Rewards</b>, the in-browser cryptocur
 
 If you're using Brave now, click on that triangle in the address bar. You'll see my Github account is verified! I drove that feature and many others.
 
-If you'd like a recap on some of my achievements there, [check out my CV](https://alexwykoff.com/cv/).
+If you'd like a recap on some of my achievements there, [check out my site](https://alexwykoff.com/).
 
 :coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/alex_wykoff">Twitter</a>
 
