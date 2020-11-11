@@ -1,9 +1,9 @@
 # Alex Wykoff - @alex_wykoff
-Product Manager for hire.  I have a depth of experience in cryptocurrency, engineering, and design.
+Principal Product Manager.  I have a depth of experience in cryptocurrency, engineering, and design.
 
 
 
-:wave: Hi! I am Alex Wykoff, a Product Manager who is looking for their next role.
+:wave: Hi! I am Alex Wykoff, a Principal Product Manager who is working on something cool, but always open to making new connections.
 
 My prior work at :lion:Brave focused on <b>Rewards</b>, the in-browser cryptocurrency system.
 
@@ -33,3 +33,5 @@ If you'd like a recap on some of my achievements there, [check out my site](http
     <li>:thinking:AlexParty.Party - A social media project only for folks named Alex</li>
   </ul>
 </details>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexwykoff%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
