@@ -1,9 +1,6 @@
 # Alex Wykoff - @alex_wykoff
-Principal Product Manager.  I have a depth of experience in cryptocurrency, engineering, and design.
 
-
-
-:wave: Hi! I am Alex Wykoff, a Principal Product Manager who is working on something cool, but always open to making new connections.
+:wave: Hi! I am Alex Wykoff, a product leader who is working on something cool, but always open to making new connections.
 
 My prior work at :lion:Brave focused on <b>Rewards</b>, the in-browser cryptocurrency system.
 
@@ -17,19 +14,18 @@ If you'd like a recap on some of my achievements there, [check out my site](http
 
 
 <details>
-  <summary><b>:rocket: 2020 Achievements</b></summary>
+  <summary><b>:rocket: 2022 Achievements</b></summary>
   <ul>
-    <li>I painted and rebuilt a bmx bike for my kid.</li>
-    <li>I created [Distributed Camp](https://distributed.camp) a virtual conference on distributed technologies during a global pandemic.</li>
-    <li>I made a waxed canvas laptop bag.</li>
-    <li>I built an at-home arcade with video conferencing ability.</li>
+    <li>Gave a talk at ETHDenver!</li>
+    <li>Shipped a product to let folks with less than 32 ETH stake.</li>
+    <li></li>
   </ul>
 </details>
 <details>
   <summary><b>🏗 Coming Soon</b></summary>
   <ul>
-    <li>:soon:Minus - A new way to control your content online.</li>
-    <li>🍂Distributed Camp - Fall Jam</li>
+    <li>Decentralized Infrastructure Circle lead at [Offscript](https://www.web3creatives.com/) </li>
+    <li>🍂Distributed Camp - Future Jam</li>
     <li>:thinking:AlexParty.Party - A social media project only for folks named Alex</li>
   </ul>
 </details>
