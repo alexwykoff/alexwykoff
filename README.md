@@ -14,19 +14,26 @@ If you'd like a recap on some of my achievements there, [check out my site](http
 
 
 <details>
+  
+  <summary><b>:rocket: 2023 Achievements</b></summary>
+  <ul>
+    <li>🤫 Currently NDA.</li>
+  </ul>
   <summary><b>:rocket: 2022 Achievements</b></summary>
   <ul>
     <li>Gave a talk at ETHDenver!</li>
     <li>Shipped a product to let folks with less than 32 ETH stake.</li>
-    <li></li>
+    <li>Decentralized Infrastructure Circle lead at [Offscript](https://www.web3creatives.com/) </li>
+    <li>Opened the only permanent NFT Gallery in Texas with the WRST Collabs team.</li>
+    <li>Recorded loads of podcasts</li>
   </ul>
 </details>
 <details>
   <summary><b>🏗 Coming Soon</b></summary>
   <ul>
-    <li>Decentralized Infrastructure Circle lead at [Offscript](https://www.web3creatives.com/) </li>
     <li>🍂Distributed Camp - Future Jam</li>
-    <li>:thinking:AlexParty.Party - A social media project only for folks named Alex</li>
+    <li>:thinking:[P2P Stack](https://github.com/Bimo-Studio/p2pstack) - Integrating the projects from Distributed Camp into a singular creative experience</li>
+    <li>:thinking:Should I restart my Friday night streams?</li>
   </ul>
 </details>
 
